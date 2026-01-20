@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Photo Studio & Gift Shop Management System
 
 A complete business management system built with **React**, **TypeScript**, **Tailwind CSS**, and **Shadcn UI** for the frontend, designed to connect with a **Django** backend API.
@@ -494,3 +495,6 @@ For issues or questions:
 ---
 
 **Built with ❤️ using React, TypeScript, Tailwind CSS, Shadcn UI, and Django**
+=======
+# Billing
+>>>>>>> 8a804ff69c77f485421b2a3cc2399a2f2ce8fda1
